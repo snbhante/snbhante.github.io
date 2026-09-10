@@ -2,11 +2,11 @@ const cacheName = "monk-v1.0.0";
 const staticAssets = [
   "./",
   "./index.html",
-  "./assets/monk.svg",
+  "./assets/avatar.png",
+  "./assets/snbhante.png",
   "./assets/logo.svg",
   "./assets/maskable.svg",
   "./assets/monk.gif",
-  "./assets/snbhante.png",
   "./manifest.json",
   "./assets/*",
   "https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400;500;700&display=swap",

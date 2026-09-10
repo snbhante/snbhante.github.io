@@ -1,6 +1,6 @@
 {
-  "name": "Buddhist Monk",
-  "short_name": "Buddhist Monk",
+  "name": "Sarbananda Bhikkhu",
+  "short_name": "SN Bhikkhu",
   "theme_color": "#ce8400",
   "background_color": "#242424",
   "display": "standalone",
@@ -10,48 +10,48 @@
   "start_url": "./",
   "icons": [
     {
-      "src": "./assets/monk.svg",
+      "src": "./assets/avatar.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/svg+xml"
     },
     {
-      "src": "./assets/monk.svg",
+      "src": "./assets/avatar.png",
       "type": "image/svg+xml",
       "sizes": "48x48",
       "purpose": "any maskable"
     },
     {
-      "src": "./assets/monk.svg",
+      "src": "./assets/avatar.png",
       "type": "image/svg+xml",
       "sizes": "72x72",
       "purpose": "any maskable"
     },
     {
-      "src": "./assets/monk.svg",
+      "src": "./assets/avatar.png",
       "type": "image/svg+xml",
       "sizes": "96x96",
       "purpose": "any maskable"
     },
     {
-      "src": "./assets/monk.svg",
+      "src": "./assets/avatar.png",
       "type": "image/svg+xml",
       "sizes": "128x128",
       "purpose": "any maskable"
     },
     {
-      "src": "./assets/monk.svg",
+      "src": "./assets/avatar.png",
       "type": "image/svg+xml",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "./assets/monk.svg",
+      "src": "./assets/avatar.png",
       "type": "image/svg+xml",
       "sizes": "384x384",
       "purpose": "any maskable"
     },
     {
-      "src": "./assets/monk.svg",
+      "src": "./assets/avatar.png",
       "type": "image/svg+xml",
       "sizes": "512x512",
       "purpose": "any maskable"
@@ -65,7 +65,7 @@
       "url": "./",
       "icons": [
         {
-          "src": "./assets/monk.svg",
+          "src": "./assets/avatar.png",
           "type": "image/svg+xml",
           "sizes": "192x192"
         }
@@ -78,7 +78,7 @@
       "url": "./about",
       "icons": [
         {
-          "src": "./assets/monk.svg",
+          "src": "./assets/avatar.png",
           "type": "image/svg+xml",
           "sizes": "192x192"
         }
@@ -91,7 +91,7 @@
       "url": "./contact",
       "icons": [
         {
-          "src": "./assets/monk.svg",
+          "src": "./assets/avatar.png",
           "type": "image/svg+xml",
           "sizes": "192x192"
         }
