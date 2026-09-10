@@ -6,7 +6,7 @@ const staticAssets = [
   "./assets/logo.svg",
   "./assets/maskable.svg",
   "./assets/monk.gif",
-  "./assets/sarbanandabhikkhu.png",
+  "./assets/snbhante.png",
   "./manifest.json",
   "./assets/*",
   "https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400;500;700&display=swap",

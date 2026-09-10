@@ -1,4 +1,4 @@
-# [snbhante.github.io](https://github.com/sarbanandabhikkhu/snbhante.github.io)
+# [snbhante.github.io](https://github.com/snbhante/snbhante.github.io)
 
 Early Buddhist texts from the Tipitaka (tripitaka). Suttas (sutras) with the Buddha's teachings on mindfulness, insight, wisdom and meditation.
 
@@ -13,7 +13,7 @@ This is a Progressive Web Application which will work in offline, has a splash s
 First clone project:
 
 ```sh
-git clone https://github.com/sarbanandabhikkhu/snbhante.github.io.git
+git clone https://github.com/snbhante/snbhante.github.io.git
 ```
 
 Make sure project directory
@@ -68,7 +68,7 @@ Project is automatically Hosted on Github Pages. To see [Click here](https://snb
 
 ## Credits
 
-Made with [SarbaNanda Bhikkhu](https://github.com/sarbanandabhikkhu/)
+Made with [SarbaNanda Bhikkhu](https://github.com/snbhante/)
 
 **☕ Connect with me!**
 
@@ -98,11 +98,11 @@ Made with [SarbaNanda Bhikkhu](https://github.com/sarbanandabhikkhu/)
 ## 📈 Stats
 
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-[![issues](https://img.shields.io/github/issues/sarbanandabhikkhu/snbhante.github.io)](https://github.com/sarbanandabhikkhu/snbhante.github.io/issues)
-[![GitHub tag](https://img.shields.io/github/tag/sarbanandabhikkhu/snbhante.github.io?include_prereleases=&sort=semver&color=blue)](https://github.com/sarbanandabhikkhu/snbhante.github.io/releases/)
-[![visitors - snbhante.github.io](https://visitor-badge.glitch.me/badge?page_id=sarbanandabhikkhu.snbhante.github.io?style=social)](https://github.com/sarbanandabhikkhu/snbhante.github.io)
-[![stars - snbhante.github.io](https://img.shields.io/github/stars/sarbanandabhikkhu/snbhante.github.io?style=social)](https://github.com/sarbanandabhikkhu/snbhante.github.io)
-[![forks - snbhante.github.io](https://img.shields.io/github/forks/sarbanandabhikkhu/snbhante.github.io?style=social)](https://github.com/sarbanandabhikkhu/snbhante.github.io)
+[![issues](https://img.shields.io/github/issues/snbhante/snbhante.github.io)](https://github.com/snbhante/snbhante.github.io/issues)
+[![GitHub tag](https://img.shields.io/github/tag/snbhante/snbhante.github.io?include_prereleases=&sort=semver&color=blue)](https://github.com/snbhante/snbhante.github.io/releases/)
+[![visitors - snbhante.github.io](https://visitor-badge.glitch.me/badge?page_id=snbhante.snbhante.github.io?style=social)](https://github.com/snbhante/snbhante.github.io)
+[![stars - snbhante.github.io](https://img.shields.io/github/stars/snbhante/snbhante.github.io?style=social)](https://github.com/snbhante/snbhante.github.io)
+[![forks - snbhante.github.io](https://img.shields.io/github/forks/snbhante/snbhante.github.io?style=social)](https://github.com/snbhante/snbhante.github.io)
 
 ## Documentation
 
@@ -117,7 +117,7 @@ Made with [SarbaNanda Bhikkhu](https://github.com/sarbanandabhikkhu/)
 
 <div align="center">
 
-Released under [MIT](/LICENSE) by [@sarbanandabhikkhu](https://github.com/sarbanandabhikkhu).
+Released under [MIT](/LICENSE) by [@snbhante](https://github.com/snbhante).
 
 <br>
 
@@ -125,7 +125,7 @@ Released under [MIT](/LICENSE) by [@sarbanandabhikkhu](https://github.com/sarban
 
 <p>
 <a href="mailto:sarbanandabhikkhu@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-<a href="https://snbhante.github.io/sarbanandabhikkhu" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+<a href="https://snbhante.github.io/snbhante" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
 </p>
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="Bottom">
 
