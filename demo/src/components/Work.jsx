@@ -20,11 +20,11 @@ function Work() {
         <h2 className="sm-heading">Check out some of my projects...</h2>
         <div className="projects">
           <div className="item">
-            <Link to="https://sarbanandabhikkhu.github.io/">
+            <Link to="https://snbhante.github.io/">
               <img src={website} alt="Website" />
             </Link>
             <Link
-              to="https://sarbanandabhikkhu.github.io/"
+              to="https://snbhante.github.io/"
               className="btn-light"
             >
               <i className="fas fa-eye"></i> Project Demo
@@ -37,11 +37,11 @@ function Work() {
             </Link>
           </div>
           <div className="item">
-            <Link to="https://sarbanandabhikkhu.github.io/">
+            <Link to="https://snbhante.github.io/">
               <img src={responsive} alt="Responsive" />
             </Link>
             <Link
-              to="https://sarbanandabhikkhu.github.io/"
+              to="https://snbhante.github.io/"
               className="btn-light"
             >
               <i className="fas fa-eye"></i> Project Demo
@@ -54,7 +54,7 @@ function Work() {
             </Link>
           </div>
           <div className="item">
-            <Link to="https://sarbanandabhikkhu.github.io/">
+            <Link to="https://snbhante.github.io/">
               <img src={dynamicLogo} alt="Dynamic" />
             </Link>
             <Link to="" className="btn-light">
@@ -68,7 +68,7 @@ function Work() {
             </Link>
           </div>
           <div className="item">
-            <Link to="https://sarbanandabhikkhu.github.io/SammaPanna/">
+            <Link to="https://snbhante.github.io/SammaPanna/">
               <img src={sammapannaLogo} alt="SammaPanna" />
             </Link>
             <Link to="" className="btn-light">
@@ -82,11 +82,11 @@ function Work() {
             </Link>
           </div>
           <div className="item">
-            <Link to="https://sarbanandabhikkhu.github.io/DhammaChakka/">
+            <Link to="https://snbhante.github.io/DhammaChakka/">
               <img src={maskable} alt="DhammaChakka" />
             </Link>
             <Link
-              to="https://sarbanandabhikkhu.github.io/DhammaChakka/"
+              to="https://snbhante.github.io/DhammaChakka/"
               className="btn-light"
             >
               <i className="fas fa-eye"></i> Project Demo
@@ -99,11 +99,11 @@ function Work() {
             </Link>
           </div>
           <div className="item">
-            <Link to="https://sarbanandabhikkhu.github.io/">
+            <Link to="https://snbhante.github.io/">
               <img src={buddhaHead} alt="Buddha Head" />
             </Link>
             <Link
-              to="https://sarbanandabhikkhu.github.io/"
+              to="https://snbhante.github.io/"
               className="btn-light"
             >
               <i className="fas fa-eye"></i> Project Demo

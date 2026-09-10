@@ -1,4 +1,4 @@
-# [sarbanandabhikkhu.github.io](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu.github.io)
+# [snbhante.github.io](https://github.com/sarbanandabhikkhu/snbhante.github.io)
 
 Early Buddhist texts from the Tipitaka (tripitaka). Suttas (sutras) with the Buddha's teachings on mindfulness, insight, wisdom and meditation.
 
@@ -13,13 +13,13 @@ This is a Progressive Web Application which will work in offline, has a splash s
 First clone project:
 
 ```sh
-git clone https://github.com/sarbanandabhikkhu/sarbanandabhikkhu.github.io.git
+git clone https://github.com/sarbanandabhikkhu/snbhante.github.io.git
 ```
 
 Make sure project directory
 
 ```sh
-cd sarbanandabhikkhu.github.io/demo
+cd snbhante.github.io/demo
 ```
 
 install dependencies:
@@ -60,7 +60,7 @@ git commit -m "YOUR COMMIT MESSAGE"
 git push
 ```
 
-Project is automatically Hosted on Github Pages. To see [Click here](https://sarbanandabhikkhu.github.io/)
+Project is automatically Hosted on Github Pages. To see [Click here](https://snbhante.github.io/)
 
 </details>
 
@@ -98,18 +98,18 @@ Made with [SarbaNanda Bhikkhu](https://github.com/sarbanandabhikkhu/)
 ## 📈 Stats
 
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-[![issues](https://img.shields.io/github/issues/sarbanandabhikkhu/sarbanandabhikkhu.github.io)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu.github.io/issues)
-[![GitHub tag](https://img.shields.io/github/tag/sarbanandabhikkhu/sarbanandabhikkhu.github.io?include_prereleases=&sort=semver&color=blue)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu.github.io/releases/)
-[![visitors - sarbanandabhikkhu.github.io](https://visitor-badge.glitch.me/badge?page_id=sarbanandabhikkhu.sarbanandabhikkhu.github.io?style=social)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu.github.io)
-[![stars - sarbanandabhikkhu.github.io](https://img.shields.io/github/stars/sarbanandabhikkhu/sarbanandabhikkhu.github.io?style=social)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu.github.io)
-[![forks - sarbanandabhikkhu.github.io](https://img.shields.io/github/forks/sarbanandabhikkhu/sarbanandabhikkhu.github.io?style=social)](https://github.com/sarbanandabhikkhu/sarbanandabhikkhu.github.io)
+[![issues](https://img.shields.io/github/issues/sarbanandabhikkhu/snbhante.github.io)](https://github.com/sarbanandabhikkhu/snbhante.github.io/issues)
+[![GitHub tag](https://img.shields.io/github/tag/sarbanandabhikkhu/snbhante.github.io?include_prereleases=&sort=semver&color=blue)](https://github.com/sarbanandabhikkhu/snbhante.github.io/releases/)
+[![visitors - snbhante.github.io](https://visitor-badge.glitch.me/badge?page_id=sarbanandabhikkhu.snbhante.github.io?style=social)](https://github.com/sarbanandabhikkhu/snbhante.github.io)
+[![stars - snbhante.github.io](https://img.shields.io/github/stars/sarbanandabhikkhu/snbhante.github.io?style=social)](https://github.com/sarbanandabhikkhu/snbhante.github.io)
+[![forks - snbhante.github.io](https://img.shields.io/github/forks/sarbanandabhikkhu/snbhante.github.io?style=social)](https://github.com/sarbanandabhikkhu/snbhante.github.io)
 
 ## Documentation
 
 <div align="center">
 
 [![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://sarbanandabhikkhu.github.io/sarbanandabhikkhu.github.io/)
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://snbhante.github.io/snbhante.github.io/)
 
 </div>
 
@@ -125,7 +125,7 @@ Released under [MIT](/LICENSE) by [@sarbanandabhikkhu](https://github.com/sarban
 
 <p>
 <a href="mailto:sarbanandabhikkhu@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-<a href="https://sarbanandabhikkhu.github.io/sarbanandabhikkhu" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+<a href="https://snbhante.github.io/sarbanandabhikkhu" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
 </p>
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="Bottom">
 

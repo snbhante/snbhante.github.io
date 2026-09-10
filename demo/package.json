@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "clean": "rm -fr dist",
-    "dist": "npm run build && cp -r dist/* ~/sarbanandabhikkhu.github.io && npm run clean",
+    "dist": "npm run build && cp -r dist/* ~/snbhante.github.io && npm run clean",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
