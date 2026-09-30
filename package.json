@@ -1,0 +1,32 @@
+{
+  "name": "snbhante.github.io",
+  "version": "3.0.0",
+  "private": true,
+  "description": "SarbaNanda Bhikkhu personal portfolio — Next.js static PWA for GitHub Pages, with Termux/Android compatibility.",
+  "scripts": {
+    "dev": "next dev --webpack",
+    "dev:turbopack": "next dev --turbopack",
+    "build": "npm run validate:config && next build --webpack",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "validate:config": "node scripts/validate-config.mjs",
+    "sync:config": "node scripts/sync-config.mjs",
+    "sync:assets": "node scripts/sync-assets.mjs",
+    "sync:all": "npm run sync:config && npm run sync:assets"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "next": "16.3.7",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.9.0"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "name": "Personal Portfolio",
+      "description": "The personal portfolio and progressive web application.",
+      "demo": "https://snbhante.github.io/",
+      "source": "https://github.com/snbhante/snbhante.github.io",
+      "image": "/assets/website.svg"
+    },
+    {
+      "name": "Responsive Web Project",
+      "description": "Responsive web design and implementation work.",
+      "demo": "https://snbhante.github.io/",
+      "source": "https://github.com/snbhante/snbhante",
+      "image": "/assets/responsive.svg"
+    },
+    {
+      "name": "Dynamic Logo",
+      "description": "A dynamic visual identity experiment.",
+      "demo": "https://snbhante.github.io/",
+      "source": "https://github.com/snbhante/snbhante",
+      "image": "/assets/dynamic-logo.svg"
+    },
+    {
+      "name": "SammaPanna",
+      "description": "A Buddhist-oriented digital project.",
+      "demo": "https://snbhante.github.io/SammaPanna/",
+      "source": "https://github.com/snbhante/snbhante",
+      "image": "/assets/sammapanna-logo.svg"
+    },
+    {
+      "name": "DhammaChakka",
+      "description": "A Buddhist digital project.",
+      "demo": "https://snbhante.github.io/DhammaChakka/",
+      "source": "https://github.com/snbhante/DhammaChakka",
+      "image": "/assets/maskable.svg"
+    },
+    {
+      "name": "Buddha Head",
+      "description": "A Buddhist visual identity project.",
+      "demo": "https://snbhante.github.io/",
+      "source": "https://github.com/snbhante/BuddhaHead",
+      "image": "/assets/buddha-head.svg"
+    }
+  ]
+}

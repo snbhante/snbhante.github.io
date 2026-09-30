@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "name": "Languages",
+      "items": [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Java",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Web",
+      "items": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express",
+        "HTML5",
+        "CSS3",
+        "Sass",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "Data & Backend",
+      "items": [
+        "MongoDB",
+        "SQLite",
+        "Firebase"
+      ]
+    },
+    {
+      "name": "Tools & Design",
+      "items": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Figma",
+        "Android Studio",
+        "Electron"
+      ]
+    }
+  ]
+}

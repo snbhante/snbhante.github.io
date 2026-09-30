@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About Me",
+      "href": "/about/"
+    },
+    {
+      "label": "My Work",
+      "href": "/work/"
+    },
+    {
+      "label": "Contact Me",
+      "href": "/contact/"
+    },
+    {
+      "label": "Dashboard",
+      "href": "/dashboard/"
+    },
+    {
+      "label": "Login",
+      "href": "/login/"
+    }
+  ]
+}

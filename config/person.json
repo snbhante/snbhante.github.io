@@ -1,0 +1,21 @@
+{
+  "name": "SarbaNanda Bhikkhu",
+  "givenName": "SarbaNanda",
+  "honorific": "Bhikkhu",
+  "roles": [
+    "Buddhist Monk",
+    "MERN Stack Web Developer",
+    "Programmer",
+    "Designer",
+    "Content Creator"
+  ],
+  "location": "Chittagong Hill Tracts, Bangladesh",
+  "bio": "I'm SarbaNanda, a Buddhist Monk from the Chittagong Hill Tracts in Bangladesh. I am more interested in Buddhism and Buddhist literature and would like to work on it in the future. I desire to do something related to Buddhism on digital platforms. I practice coding in my spare time and enjoy learning and discovering new things. I also want to work as a content creator on YouTube.",
+  "interests": [
+    "Buddhism",
+    "Buddhist literature",
+    "Digital Dhamma projects",
+    "Web development",
+    "Content creation"
+  ]
+}
